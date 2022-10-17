@@ -6,7 +6,7 @@ English = [90, 80]
 Physics = [80, 80]
 Computer = [80, 90]
 x = np.arange(2) 
-width = 0.2
+width = 0.15
 labels = ['Math', 'English', 'Physics', 'Computer']
 names = ['Bill', 'Mary']
 
